@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Week1</string>
+    <string name="app_name">CoVid19</string>
+    <string name="app_intro_msg">Hello from the main activity Layout! </string>
 </resources>
